@@ -1,0 +1,15 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1443;Freiburg;TMK;01.01.1874;28.03.2021;10190;Gesamt_Messzeitraum;eor;                                                                                                                                  
+1443;Freiburg;TXK;01.01.1874;28.03.2021;10111;Gesamt_Messzeitraum;eor;                                                                                                                                  
+1443;Freiburg;TNK;01.01.1874;28.03.2021;10146;Gesamt_Messzeitraum;eor;                                                                                                                                  
+1443;Freiburg;TGK;01.01.1874;28.03.2021;7;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1443;Freiburg;PM;01.01.1874;28.03.2021;10272;Gesamt_Messzeitraum;eor;                                                                                                                                   
+1443;Freiburg;FM;01.01.1874;28.03.2021;25;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1443;Freiburg;FX;01.01.1874;28.03.2021;34;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1443;Freiburg;UPM;01.01.1874;28.03.2021;10301;Gesamt_Messzeitraum;eor;                                                                                                                                  
+1443;Freiburg;VPM;01.01.1874;28.03.2021;10372;Gesamt_Messzeitraum;eor;                                                                                                                                  
+1443;Freiburg;NM;01.01.1874;28.03.2021;13687;Gesamt_Messzeitraum;eor;                                                                                                                                   
+1443;Freiburg;SDK;01.01.1874;28.03.2021;6;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1443;Freiburg;RSK;01.01.1874;28.03.2021;10187;Gesamt_Messzeitraum;eor;                                                                                                                                  
+1443;Freiburg;RSKF;01.01.1874;28.03.2021;10174;Gesamt_Messzeitraum;eor;                                                                                                                                 
+1443;Freiburg;SHK_TAG;01.01.1874;28.03.2021;14406;Gesamt_Messzeitraum;eor;                                                                                                                              

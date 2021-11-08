@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1443;Freiburg;PM;15.10.2019;16.04.2021;2;Gesamt_Messzeitraum;eor;                                                                                                                                       
+1443;Freiburg;UPM;15.10.2019;16.04.2021;3;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1443;Freiburg;VPM;15.10.2019;16.04.2021;3;Gesamt_Messzeitraum;eor;                                                                                                                                      
+1443;Freiburg;NM;15.10.2019;16.04.2021;6;Gesamt_Messzeitraum;eor;                                                                                                                                       
+1443;Freiburg;SHK_TAG;15.10.2019;16.04.2021;162;Gesamt_Messzeitraum;eor;                                                                                                                                

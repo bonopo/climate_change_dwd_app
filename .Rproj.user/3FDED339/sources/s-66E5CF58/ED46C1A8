@@ -1,0 +1,26 @@
+{
+    "id": "ED46C1A8",
+    "path": "~/Documents/programmieren/R_practice/climate_change_graphs-dev/CCgraphs/inst/shiny-CCgraphs/myapp/app.R",
+    "project_path": "inst/shiny-CCgraphs/myapp/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1618732187853.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,37",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618240304,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618240304,
+    "read_only": false,
+    "read_only_alternatives": []
+}

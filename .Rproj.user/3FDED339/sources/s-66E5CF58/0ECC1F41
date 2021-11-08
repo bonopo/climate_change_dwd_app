@@ -1,0 +1,26 @@
+{
+    "id": "0ECC1F41",
+    "path": "~/Documents/programmieren/R_practice/climate_change_graphs-dev/CCgraphs/R/get_dwd_for_cumsum.R",
+    "project_path": "R/get_dwd_for_cumsum.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1618731911588.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "71,10",
+        "scrollLine": "60"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618694726,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618694726,
+    "read_only": false,
+    "read_only_alternatives": []
+}

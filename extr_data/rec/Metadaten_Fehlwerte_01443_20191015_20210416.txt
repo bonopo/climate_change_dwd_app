@@ -1,0 +1,10 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1443;Freiburg;PM;08.08.2020;09.08.2020;2;;eor;                                                                                                                                                          
+1443;Freiburg;UPM;08.08.2020;10.08.2020;3;;eor;                                                                                                                                                         
+1443;Freiburg;VPM;08.08.2020;10.08.2020;3;;eor;                                                                                                                                                         
+1443;Freiburg;NM;31.07.2020;31.07.2020;1;;eor;                                                                                                                                                          
+1443;Freiburg;NM;07.08.2020;11.08.2020;5;;eor;                                                                                                                                                          
+1443;Freiburg;SHK_TAG;29.04.2020;29.04.2020;1;;eor;                                                                                                                                                     
+1443;Freiburg;SHK_TAG;01.05.2020;01.10.2020;154;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                             
+1443;Freiburg;SHK_TAG;14.10.2020;20.10.2020;7;;eor;                                                                                                                                                     
+generiert: 17.04.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

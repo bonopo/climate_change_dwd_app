@@ -1,0 +1,9 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 2,
+            "ascending": true
+        }
+    ],
+    "path": "~/Documents/programmieren/R_practice/climate_change_graphs-dev/CCgraphs/inst/shiny-CCgraphs/myapp"
+}
